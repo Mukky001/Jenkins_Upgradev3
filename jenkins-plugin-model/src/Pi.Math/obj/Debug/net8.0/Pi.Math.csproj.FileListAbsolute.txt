@@ -1,0 +1,13 @@
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/bin/Debug/net8.0/Pi.Math.deps.json
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/bin/Debug/net8.0/Pi.Math.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/bin/Debug/net8.0/Pi.Math.pdb
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.csproj.AssemblyReference.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.AssemblyInfoInputs.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.AssemblyInfo.cs
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.csproj.CoreCompileInputs.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.sourcelink.json
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/refint/Pi.Math.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/Pi.Math.pdb
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/Debug/net8.0/ref/Pi.Math.dll

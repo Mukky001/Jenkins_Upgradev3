@@ -1,0 +1,13 @@
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/net8.0/Pi.Runtime.deps.json
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/net8.0/Pi.Runtime.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/bin/Debug/net8.0/Pi.Runtime.pdb
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.csproj.AssemblyReference.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.AssemblyInfoInputs.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.AssemblyInfo.cs
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.csproj.CoreCompileInputs.cache
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.sourcelink.json
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/refint/Pi.Runtime.dll
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/Pi.Runtime.pdb
+/home/moh/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/Debug/net8.0/ref/Pi.Runtime.dll
