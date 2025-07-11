@@ -40,10 +40,10 @@ pipeline {
             }
         }
 
-       // stage('Unit Test') {
+        stage('Unit Test') {
             steps {
                 sh 'chmod +x ./jenkins-plugin-model/ci/03-unit-test.sh && ./jenkins-plugin-model/ci/03-unit-test.sh'
-                // mstest testResultsFile:"**/*.trx"
+                 junit testResultsFile:"**/*.trx"
             }
         }
 
